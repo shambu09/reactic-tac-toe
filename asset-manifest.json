@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactic-tac-toe/static/css/main.5532eaf8.chunk.css",
+    "main.js": "/reactic-tac-toe/static/js/main.9ee1b9ef.chunk.js",
+    "main.js.map": "/reactic-tac-toe/static/js/main.9ee1b9ef.chunk.js.map",
+    "runtime-main.js": "/reactic-tac-toe/static/js/runtime-main.668c0505.js",
+    "runtime-main.js.map": "/reactic-tac-toe/static/js/runtime-main.668c0505.js.map",
+    "static/js/2.2f994810.chunk.js": "/reactic-tac-toe/static/js/2.2f994810.chunk.js",
+    "static/js/2.2f994810.chunk.js.map": "/reactic-tac-toe/static/js/2.2f994810.chunk.js.map",
+    "index.html": "/reactic-tac-toe/index.html",
+    "static/css/main.5532eaf8.chunk.css.map": "/reactic-tac-toe/static/css/main.5532eaf8.chunk.css.map",
+    "static/js/2.2f994810.chunk.js.LICENSE.txt": "/reactic-tac-toe/static/js/2.2f994810.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.668c0505.js",
+    "static/js/2.2f994810.chunk.js",
+    "static/css/main.5532eaf8.chunk.css",
+    "static/js/main.9ee1b9ef.chunk.js"
+  ]
+}
